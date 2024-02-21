@@ -1,8 +1,5 @@
 # Umut's Cybersecurity Portfolio. 
 
-
-## Resume
-[Resume]
 ## Personal projects
 
 I have engaged in some learning and labs in my own time. Some of these things was creating my own SEIM (security onion), and creating internal networks. I have also worked on vulnhub machines, and hackthebox, ctflearn, and try hackme. A discription of some of these projects can be found on this GitHub. 
@@ -297,4 +294,3 @@ During this week we learned about digital forensics. Things focused on during th
 This weeks homework we performed a digital forensic analysis of an Iphone's data. This homework was based on the National Gallery Exercise, however rather than looking at the overall scenario, we focused specifically on Tracy's IPhone, and how it related to the stamp theft. 
 
 [Week 21 Homework]
-# Resume
